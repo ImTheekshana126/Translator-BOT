@@ -6,9 +6,9 @@ A simple google translator telegram bot
 
 ```
 Made with Python3
-(C) @FayasNoushad
+(C) @ImTheekshana
 Copyright permission under MIT License
-License -> https://github.com/FayasNoushad/Translator-Bot/blob/main/LICENSE
+License -> https://github.com/ImTheekshana126/Translator-Bot/blob/main/LICENSE
 ```
 
 ---
@@ -32,7 +32,7 @@ License -> https://github.com/FayasNoushad/Translator-Bot/blob/main/LICENSE
 <br/>
 
 ```sh
-git clone https://github.com/FayasNoushad/Translator-Bot
+git clone https://github.com/ImTheekshana126/Translator-Bot
 cd Translator-Bot
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
